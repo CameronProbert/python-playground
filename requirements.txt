@@ -1,0 +1,2 @@
+cowsay==1.*
+pytest
